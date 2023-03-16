@@ -61,5 +61,7 @@
 * Ask team about commit strategy - squash or merge
 * Ask team about workflow - trunk, gitflow, githubflow
 
+
+* git config --global push.autoSetupRemote true
 ## Lear more
 * [Git Immersion](https://gitimmersion.com/)
